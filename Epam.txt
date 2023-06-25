@@ -1,0 +1,19 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Senior Data Analyst position at EPAM. With five years of experience as a data professional, specializing as a Senior Data Analyst, and my expertise in SQL, Python, R, and data visualization tools such as Excel, Power BI, Tableau, and Splunk, I am confident in my ability to contribute to EPAM's data analytics initiatives.
+
+Throughout my career, I have developed and managed sophisticated data schematics, enabling efficient data manipulation and analysis. I am adept at designing interactive dashboards and generating comprehensive reports based on thorough analysis. Additionally, I have a proven ability to create visually appealing graphics that can be seamlessly exported to slides, facilitating effective communication of insights and findings.
+
+My proficiency in SQL allows me to confidently develop and execute complex queries, extracting meaningful insights from large datasets. I have extensive experience collaborating with cross-functional teams, effectively communicating analytical results to stakeholders and peers alike. I am confident in delivering presentations that are tailored to the audience, ensuring clear and concise communication of complex concepts.
+
+My expertise in business analysis and data visualization, coupled with my mastery of SQL, Tableau, and other business intelligence tools, enables me to effectively translate data into actionable insights. I am comfortable working with Google Mail, Calendar, Meet, Chat, Spreadsheets, HTML, and SQL, leveraging these tools to streamline workflows and enhance productivity.
+
+Furthermore, I possess a masters degree in data science, allowing me to understand the broader context of data analysis and incorporate advanced techniques into my work including Machine Learning and AI. My strong communication skills, both written and verbal, enable me to effectively collaborate with stakeholders, understand their requirements, and deliver insights that drive informed decision-making.
+
+EPAM's reputation for excellence and its focus on innovation align perfectly with my career aspirations. I am excited about the opportunity to contribute to EPAM's data analytics team and leverage my skills and experience to solve complex business challenges. I am confident that my expertise in data analysis, visualization, and communication make me a strong candidate for the Senior Data Analyst role.
+
+Thank you for considering my application. I have attached my resume for your review. I would appreciate the opportunity to discuss how my qualifications align with the needs of EPAM in more detail. Please feel free to contact me at your convenience to schedule a meeting or provide any further information.
+
+Sincerely,
+
+Akhil Pratyush S
